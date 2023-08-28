@@ -11,7 +11,7 @@ The project “shaya-solutions company” is a responsive website made using HTM
 Go check this website!!
 https://soheilasadeghian.github.io/shaya/index.html
 
-## Tech Stack: HTML, CSS, JavaScript
+## Tech Stack: HTML, CSS, JavaScript 
 
 
 __NOTE: PHP Mailer won't work on this deployed website. For that you need to download this whole project and run it locally on your PC with your email account.__
